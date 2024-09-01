@@ -21,7 +21,7 @@ loop() function: Sequentially toggles all relays on and off, displaying the proc
 sendModbusCommand() function: Sends the specified Modbus command via RS485.
 This project provides a basic structure for relay control applications, which can be utilized in industrial control systems.
 
-/*******MCB*******TÜRKÇE AÇIKLAMA**********************MCB*******/
+
 Proje Özeti:
 Bu proje, ESP32 mikrodenetleyicisi ve RS485 haberleşme protokolü kullanarak röleleri kontrol etmeyi amaçlamaktadır. Modbus RTU komutları ile rölelerin açılıp kapanması sağlanır. Projede kullanılan donanım bağlantıları, ESP32’nin donanım serisi üzerinden RS485 modülüne veri iletimi ve alımı gerçekleştirir.
 
